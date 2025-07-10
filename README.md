@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Wajahat Ali
 🎓 Data Science Student | 🧠 AI Enthusiast | 📊 Power BI & Python Developer
+
 I'm passionate about creating AI-powered solutions that solve real-world problems. From intelligent web apps to gesture-controlled interfaces and insightful dashboards, I love bringing ideas to life using machine learning, computer vision, and data analytics.
 
 ## 🏆 Certifications
