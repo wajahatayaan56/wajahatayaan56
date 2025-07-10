@@ -22,7 +22,7 @@ Power BI dashboard analyzing daily/weekly trends, best-selling pizzas, customer 
 Visualized top creators, countries, engagement rates, and categories using Power BI and DAX.
 
 # 💻 Technologies I Use
-# Languages & Libraries:
+### Languages & Libraries:
 Python, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib
 
 ### AI & Computer Vision:
